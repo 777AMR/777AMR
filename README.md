@@ -9,9 +9,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<p align="left"><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://spring.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
+<p align="left"><a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://spring.io" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.oracle.com" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>  
-<a href="https://www.jetbrains.com/ru-ru/idea" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IDEA" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/ru-ru/idea" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" alt="IDEA" width="40" height="40"/> </a>
+<a href="https://hibernate.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
